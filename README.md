@@ -83,35 +83,26 @@ Input BMP + Secret Text
 
 ## 📸 Output Screenshots (Execution Results)
 
-Add your screenshots in the `Execution_Results/` folder using this exact order:
-
 ### 1️⃣ Encoding Execution
-
-`01_Encoding_Execution_Output.png`
+![Encoding Execution](Execution_Results/01_Encoding_Execution_Output.png)
 
 ### 2️⃣ Output Folder Validation
-
-`02_Output_Folder_File_Check.png`
+![Output Folder Validation](Execution_Results/02_Output_Folder_File_Check.png)
 
 ### 3️⃣ Decoding Execution
-
-`03_Decoding_Execution_Output.png`
+![Decoding Execution](Execution_Results/03_Decoding_Execution_Output.png)
 
 ### 4️⃣ Negative Test (Magic String)
-
-`04_Invalid_Decode_Magic_String_Check.png`
+![Negative Test](Execution_Results/04_Invalid_Decode_Magic_String_Check.png)
 
 ### 5️⃣ Stego Image Validation
-
-`05_Stego_Image_Validation_Output.png`
+![Stego Image Validation](Execution_Results/05_Stego_Image_Validation_Output.png)
 
 ### 6️⃣ Input vs Output Size Comparison
-
-`06_Input_Output_Image_Size_Comparison.png`
+![Image Size Comparison](Execution_Results/06_Input_Output_Image_Size_Comparison.png)
 
 ### 7️⃣ Original vs Decoded Text Verification
-
-`07_Original_vs_Decoded_Text_Verification.png`
+![Verification](Execution_Results/07_Original_vs_Decoded_Text_Verification.png)
 
 ---
 
