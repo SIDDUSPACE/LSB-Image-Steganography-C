@@ -1,0 +1,4 @@
+stego
+*.zip
+output/output.bmp
+output/decoded.txt
